@@ -28,7 +28,7 @@ http://www.willpeavy.com/minifier/
 -  minified the perfmatters.js
 -  minified the index.html
  
-## Pizza.html
+####  Pizza.html
 -  Minify the bootstrap-grid.css & style.css
 - Minify the main.js
 - Minify the pizza.html
