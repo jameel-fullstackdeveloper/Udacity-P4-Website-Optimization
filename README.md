@@ -29,10 +29,10 @@ http://www.willpeavy.com/minifier/
 -  minified the index.html
  
 ## Pizza.html
---  Minify the bootstrap-grid.css & style.css
--- Minify the main.js
--- Minify the pizza.html
--- Modify main.js  (moved variables out of the for loop since they are constants.changed document.querySelectorAll
+-  Minify the bootstrap-grid.css & style.css
+- Minify the main.js
+- Minify the pizza.html
+- Modify main.js  (moved variables out of the for loop since they are constants.changed document.querySelectorAll
   to document.getElementsByClassName to increase efficiency in functions named changePizzaSizes() and updatePositions() ) 
 
 
